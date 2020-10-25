@@ -15,16 +15,5 @@ Module|Content
 [Lesson 4]()<br>**Analyzing Tabular Data with Pandas** | <ul><li>Reading and writing CSV data with Pandas<li>Querying, filtering and sorting data frames<li>Grouping and aggregation for data summarization<li>Merging and joining data from multiple sources</ul>
 [Assignment 3]()<br>**Pandas Practice** |<ul><li>Create data frames from CSV files<li>Query and index operations on data frames<li>Group, merge and aggregate data frames<li>Fix missing and invalid values in data</ul>
 [Lesson 5]()<br>**Visualization with Matplotlib and Seaborn** | <ul><li>Basic visualizations with Matplotlib<li>Advanced visualizations with Seaborn<li>Tips for customizing and styling charts<li>Plotting images and grids of charts</ul>
-
-Course Project - Exploratory Data Analysis
-Open →
-Find a real-world dataset of your choice online
-Use Numpy & Pandas to parse, clean & analyze data
-Use Matplotlib & Seaborn to create visualizations
-Ask and answer interesting questions about the data
-Lesson 6 - Exploratory Data Analysis - A Case Study
-Open →
-Finding a good real-world dataset for EDA
-Data loading, cleaning and preprocessing
-Exploratory analysis and visualization
-Answering questions and making inferences</ul>
+[Lesson 6]()<br> **Exploratory Data Analysis - A Case Study** | <ul><li>Finding a good real-world dataset for EDA<li>Data loading, cleaning and preprocessing<li>Exploratory analysis and visualization<li>Answering questions and making inferences</ul>
+[Course Project]()<br>**Exploratory Data Analysis** | <ul><li>Find a real-world dataset of your choice online<li>Use Numpy & Pandas to parse, clean & analyze data<li>Use Matplotlib & Seaborn to create visualizations<li>Ask and answer interesting questions about the data<li>Project is available in another repo @</ul>
